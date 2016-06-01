@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Messaging.Send", "RabbitMQ.Messaging\RabbitMQ.Messaging.Send.csproj", "{3535CDDD-9B42-4F2D-9486-0F220ABFD78F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Messaging.Send", "RabbitMQ.Messaging.Send\RabbitMQ.Messaging.Send.csproj", "{3535CDDD-9B42-4F2D-9486-0F220ABFD78F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Messaging.Receive", "RabbitMQ.Messaging.Receive\RabbitMQ.Messaging.Receive.csproj", "{6B23ADA9-8F0F-45F3-9D0D-CF41A823D46C}"
 EndProject
